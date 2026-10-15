@@ -1,0 +1,5 @@
+part,qty,unit_cost,category
+MCU-DEMO,1,1.20,IC
+PCB-DEMO,1,0.80,PCB
+SWITCH-DEMO,68,0.05,机电
+CASE-DEMO,1,2.50,结构

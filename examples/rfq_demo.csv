@@ -1,0 +1,4 @@
+supplier,price,lead_days,quality,payment_days
+供应商A,1.10,30,8,60
+供应商B,0.95,45,7,30
+供应商C,1.05,21,9,45
